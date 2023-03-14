@@ -1,1 +1,1 @@
-Shell redirections, Hello world
+Print Hello world
